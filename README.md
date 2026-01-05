@@ -46,12 +46,12 @@ Plus, you'll practice:
 
 **You are Student XX** *(allocated during the session)*
 
-**Your data file:** `data/student_XX.txt`
+**Your data :** Inside the data folder, look for your student number in the file alldata.txt eg: `student_XX.txt`
 
 ### Important Links
 
 - 📝 **This Repository:** Your personal workspace
-- 💬 **[Playground HQ]():** Class discussion space
+- 💬 **[Playground HQ](https://github.com/UniversityExeterBusinessSchool/uebs-bemm459-2026-01-playground-hq-PlaygroundHQ/):** Class discussion space
 ---
 
 ## 📋 Quick Start Guide
@@ -60,7 +60,7 @@ Plus, you'll practice:
 
 **Work alone in YOUR repository**
 
-1. Open your assigned data file in the `data/` folder
+1. Find your assigned data pattern in the `data/alldata.txt` file
 2. Read it carefully - what patterns do you see?
 3. Re-create this using the lego bricks you have been given.
 4. Create a new file: `structures/student_XX_structure.md`
